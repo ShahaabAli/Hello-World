@@ -7,4 +7,5 @@ using std::cout, std::endl;
 
 int main() {
   cout << "Hello World" << endl;
+  cout << "Hello World" << endl;
 }
